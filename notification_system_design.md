@@ -82,4 +82,18 @@ python notification_app_be/main.py
 
 ---
 
+---
+
+## Screenshots
+
+### Main Dashboard (All Notifications)
+![All Notifications](./screenshots/all_notifications.png)
+
+### Priority Inbox & Filtering
+![Priority Inbox](./screenshots/priority_inbox.png)
+
+### Navigation & Stats
+![Navigation and Stats](./screenshots/nav_and_stats.png)
+
 *Note: This system is designed for high scalability, maintaining a constant memory overhead of just O(N) regardless of the total notification volume.*
+
